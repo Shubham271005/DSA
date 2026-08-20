@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Shubham271005/DSA/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Shubham271005/DSA/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Shubham271005/DSA/tree/master/0189-rotate-array) |
+| [0704-binary-search](https://github.com/Shubham271005/DSA/tree/master/0704-binary-search) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Shubham271005/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Two Pointers
 |  |
@@ -72,4 +73,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Shubham271005/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
+## Binary Search
+|  |
+| ------- |
+| [0704-binary-search](https://github.com/Shubham271005/DSA/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
