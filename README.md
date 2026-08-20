@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Shubham271005/DSA/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Shubham271005/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/Shubham271005/DSA/tree/master/0031-next-permutation) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Shubham271005/DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0053-maximum-subarray](https://github.com/Shubham271005/DSA/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/Shubham271005/DSA/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/Shubham271005/DSA/tree/master/0118-pascals-triangle) |
@@ -76,5 +77,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Shubham271005/DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0704-binary-search](https://github.com/Shubham271005/DSA/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
