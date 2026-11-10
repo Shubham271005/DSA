@@ -17,8 +17,9 @@ public:
             while(st.find(x+1) != st.end()){
                 cnt++;
                 x++;
-                longest = max(cnt, longest);
+               
             }
+             longest = max(cnt, longest);
         }
     }
     return longest;
