@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0493-reverse-pairs](https://github.com/Shubham271005/DSA/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Shubham271005/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/Shubham271005/DSA/tree/master/0704-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/Shubham271005/DSA/tree/master/0875-koko-eating-bananas) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Shubham271005/DSA/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Shubham271005/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Shubham271005/DSA/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0493-reverse-pairs](https://github.com/Shubham271005/DSA/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Shubham271005/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/Shubham271005/DSA/tree/master/0704-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/Shubham271005/DSA/tree/master/0875-koko-eating-bananas) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Shubham271005/DSA/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 ## Binary Indexed Tree
 |  |
