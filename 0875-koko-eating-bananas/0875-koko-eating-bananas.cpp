@@ -8,8 +8,7 @@ public:
             int cnt = 0;
             for(int i=0; i<piles.size(); i++){
                 cnt += (piles[i] + mid - 1)/mid;
-                if(cnt > h){  // overflow handle k liye pehle hi dal diya yeh
-                    low = mid + 1;
+                if(cnt > h){  // overflow handle k liye 
                     break;
                 }
             }
