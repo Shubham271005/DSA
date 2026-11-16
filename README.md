@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Shubham271005/DSA/tree/master/0035-search-insert-position) |
 | [0049-group-anagrams](https://github.com/Shubham271005/DSA/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Shubham271005/DSA/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/Shubham271005/DSA/tree/master/0054-spiral-matrix) |
 | [0075-sort-colors](https://github.com/Shubham271005/DSA/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Shubham271005/DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Shubham271005/DSA/tree/master/0088-merge-sorted-array) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Shubham271005/DSA/tree/master/0054-spiral-matrix) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Shubham271005/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Binary Search
 |  |
@@ -189,4 +191,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/Shubham271005/DSA/tree/master/0410-split-array-largest-sum) |
+## Matrix
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/Shubham271005/DSA/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
