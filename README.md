@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/Shubham271005/DSA/tree/master/0040-combination-sum-ii) |
 | [0048-rotate-image](https://github.com/Shubham271005/DSA/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/Shubham271005/DSA/tree/master/0049-group-anagrams) |
+| [0051-n-queens](https://github.com/Shubham271005/DSA/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/Shubham271005/DSA/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Shubham271005/DSA/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/Shubham271005/DSA/tree/master/0074-search-a-2d-matrix) |
@@ -219,6 +220,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0039-combination-sum](https://github.com/Shubham271005/DSA/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Shubham271005/DSA/tree/master/0040-combination-sum-ii) |
+| [0051-n-queens](https://github.com/Shubham271005/DSA/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/Shubham271005/DSA/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Shubham271005/DSA/tree/master/0090-subsets-ii) |
+## Algorithm X
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/Shubham271005/DSA/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
